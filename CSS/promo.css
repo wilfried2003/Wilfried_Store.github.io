@@ -1,0 +1,84 @@
+div#contenue div.annonce{
+    width: 100%;
+    background-color: none;
+    margin : 8px;
+}
+
+div#contenue{
+    background: none
+}
+div#contenue div{
+    display: inline-block;
+    width: 48% ;
+}
+div#contenue div h1, p, ifframe{
+
+    margin:35% ;
+}
+div#contenue div.rightbox {
+
+}
+div#contenue div.leftbox{
+    vertical-align: top;
+    background: none;
+
+}
+div#contenue div.rightbox{
+
+    background: none;
+}
+header{
+    text-decoration: none;
+    padding-left: 500px;
+    background-color: none;
+}
+p.année{
+
+    color: #000
+}
+P.ok{
+
+padding-left: 100px
+}
+body{
+    background: black;
+    padding-left: 10px;
+
+}
+
+h3.phrases {
+    color: goldenrod;
+}
+h3.slogan{
+    color: goldenrod;
+    size: 100px;
+}
+ul.school{
+    font-size : 10px;
+    padding-top: 200px;
+    color: darkgoldenrod;
+}
+nav.menu-nav ul li.btn{
+    display: inline-block
+
+
+}
+nav.menu-nav ul li.btn a{
+    color: #fff;
+    text-decoration: none;
+    background-color: 87CEEB;
+    padding: 10px;
+
+
+}
+nav.menu-nav ul li.btn:hover a{
+    color: goldenrod;
+    background-color: white;
+    transition: 0.28s all;
+
+
+}
+h3.copy{
+    color: darkgoldenrod;
+}
+
